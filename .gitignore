@@ -1,0 +1,6 @@
+a.out
+*.o
+main.c
+libft.a
+*.filit
+libftTester/
